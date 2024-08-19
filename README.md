@@ -35,8 +35,20 @@ Exercícios que contemplam as operações fundamentais, estruturas de controle c
 
 ### Recursos úteis
 
+- Antes de começar, você precisará ter o Node.js e o npm (ou Yarn) instalados. Você pode baixá-los e instalá-los a partir dos seguintes links: [Node.js](https://nodejs.org/)
+
+- Clone este repositório para o seu ambiente local usando o Git:
+
+```
+git clone https://github.com/Isaacvf-dev/mais-pra-ti-ex-01.git
+cd mais-pra-ti-ex-01
+
+```
+  
 - Utilizar o comando abaixo para instalar dependências:
-`npm install`
+```
+npm install
+```
   
 
 
