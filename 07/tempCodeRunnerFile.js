@@ -1,0 +1,1 @@
+console.log(`Valor total da compra: R$ ${totalPrice.toFixed(2)}`)

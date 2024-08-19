@@ -1,0 +1,1 @@
+decimalNumber = Number(prompt('Digite um número decimal: '))
